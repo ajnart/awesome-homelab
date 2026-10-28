@@ -1,0 +1,14 @@
+data/infra-management.yaml
+  h_d6e478ca18e517 54-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "59da16acafac0931e522db3a992dfd10e9944ee4",
+  "prompts": {},
+  "humans": {
+    "h_d6e478ca18e517": {
+      "author": "Thomas Camlong <thomas@ajnart.fr>"
+    }
+  }
+}
