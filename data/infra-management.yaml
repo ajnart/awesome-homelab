@@ -51,3 +51,7 @@
 
 - name: DebOps
   url: https://github.com/debops/debops
+
+- name: self-host
+  url: https://github.com/ajnart/self-host
+  description: 'Install self-hosted apps and get them set up for you: admin accounts, API keys and the apps connected to each other.'
